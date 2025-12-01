@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Monthly Expenses Tracker";
+export const description = "Track your monthly expenses, stay on budget, and celebrate savings.";
 export const url = process.env.NEXT_PUBLIC_URL;
